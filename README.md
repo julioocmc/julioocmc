@@ -2,7 +2,7 @@
 <h3 align="center">Backend Programmer and Web Developer from Caracas, Venezuela😉</h3>
 
 - 🌱 I’m currently learning **Typescript**
-- 🌱 I’m currently working **in my own projects**
+- 🛠️ I’m currently working **in my own projects**
 - 📫 How to reach me **juliooocmc18@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
