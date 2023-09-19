@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julio Mijares</h1>
-<h3 align="center">Backend Programmer and Web Developer from Caracas, Venezuela😉</h3>
+<h3 align="center">Fullstack Developer from Caracas, Venezuela😉</h3>
 
-- 🌱 I’m currently learning **Typescript**
-- 🛠️ I’m currently working **in my own projects**
+- 🌱 I’m currently learning **Laravel**
+- 🛠️ I’m currently working in **Makro+Redvital**
 - 📫 How to reach me **juliooocmc18@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
