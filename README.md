@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Mijares</h1>
 <h3 align="center">Fullstack Developer from Caracas, Venezuela😉</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Metronic**
 - 🛠️ I’m currently working in **Makro+Redvital**
 - 📫 How to reach me **juliooocmc18@gmail.com**
 
